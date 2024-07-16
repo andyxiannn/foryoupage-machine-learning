@@ -1,0 +1,1 @@
+from .forYouRecommendation import app_forYouRecommendation
